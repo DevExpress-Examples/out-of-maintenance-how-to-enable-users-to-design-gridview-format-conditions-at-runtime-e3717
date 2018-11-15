@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CondititonItemControl.cs](./CS/GridViewFormatCondition/CondititonItemControl.cs) (VB: [CondititonItemControl.vb](./VB/GridViewFormatCondition/CondititonItemControl.vb))
+* [CustomConditionItems.cs](./CS/GridViewFormatCondition/CustomConditionItems.cs) (VB: [CustomConditionItems.vb](./VB/GridViewFormatCondition/CustomConditionItems.vb))
+* [ExpressionConditionDesigner.cs](./CS/GridViewFormatCondition/ExpressionConditionDesigner.cs) (VB: [ExpressionConditionDesigner.vb](./VB/GridViewFormatCondition/ExpressionConditionDesigner.vb))
+* [SimpleConditionDesigner.cs](./CS/GridViewFormatCondition/SimpleConditionDesigner.cs) (VB: [SimpleConditionDesigner.vb](./VB/GridViewFormatCondition/SimpleConditionDesigner.vb))
+* [ViewFormatDesigner.cs](./CS/GridViewFormatCondition/ViewFormatDesigner.cs) (VB: [ViewFormatDesigner.vb](./VB/GridViewFormatCondition/ViewFormatDesigner.vb))
+* [MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))
+<!-- default file list end -->
 # How to enable users to design GridView format conditions at runtime
 
 
